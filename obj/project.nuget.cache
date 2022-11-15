@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvB9j1QtaU6xz15wgwF2F5E6xzaBSW8L1ujxugQFAqNNDts6eRscFCyxUas4+mrm7O5FgEmaU5vx4l+VOieeeg==",
+  "success": true,
+  "projectFilePath": "d:\\Dokumente\\My Games\\Terraria\\tModLoader\\ModSources\\cherrytop\\cherrytop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
